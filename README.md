@@ -1,1 +1,1 @@
-My first web development project using HTML, CSS, and JavaScript.
+My first web development project using HTML, CSS, and JavaScript. 
